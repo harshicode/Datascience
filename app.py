@@ -1,3 +1,7 @@
+"""Data Science web app with Streamlit and Python for representing the data of motor vehicle collisions
+of New York State"""
+
+
 import streamlit as st
 import pandas as pd
 import numpy as np
